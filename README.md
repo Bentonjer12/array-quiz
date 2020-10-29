@@ -1,5 +1,4 @@
-# array-quiz
-Quiz we did to go over arrays.
+
 
 # Instructions
 ## Part 1 (80 points):
